@@ -1,1 +1,1 @@
-loja
+Projeto desenvolvido para estudar os padrões do Design Patterns.
