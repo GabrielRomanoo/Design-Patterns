@@ -20,7 +20,7 @@ public abstract class Desconto {
 		return proximo.calcular(orcamento);
 	}
 	
-	protected abstract BigDecimal efetuarCalculo(Orcamento orcamento);
+	protected abstract BigDecimal efetuarCalculo(Orcamento orcamento); //metodo abstrato obriga os filhos a implementarem o metodo
 	protected abstract boolean deveAplicar(Orcamento orcamento);
 
 }

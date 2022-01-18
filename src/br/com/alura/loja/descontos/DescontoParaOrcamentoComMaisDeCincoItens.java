@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 
 import br.com.alura.loja.orcamento.Orcamento;
 
-public class DescontoParaOrcamentoComMaisDeCincoItens extends Desconto{
+public class DescontoParaOrcamentoComMaisDeCincoItens extends Desconto {
 
 	public DescontoParaOrcamentoComMaisDeCincoItens(Desconto desconto) {
 		super(desconto);

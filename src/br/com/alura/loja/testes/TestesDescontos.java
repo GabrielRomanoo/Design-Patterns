@@ -1,4 +1,4 @@
-package br.com.alura.loja;
+package br.com.alura.loja.testes;
 import java.math.BigDecimal;
 
 import br.com.alura.loja.descontos.CalculadorDeDescontos;
