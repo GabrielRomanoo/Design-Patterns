@@ -2,8 +2,8 @@ package br.com.alura.loja.orcamento.situacao;
 
 import java.math.BigDecimal;
 
-import br.com.alura.loja.DomainException;
 import br.com.alura.loja.orcamento.Orcamento;
+import br.com.alura.loja.util.exceptions.DomainException;
 
 //Padrao State
 public abstract class SituacaoOrcamento {
