@@ -14,7 +14,7 @@ public class Orcamento implements Orcavel {
 	private SituacaoOrcamento situacao;
 	private List<Orcavel> itens;
 	
-	public Orcamento() {
+	public Orcamento() {	
 		this.valor = BigDecimal.ZERO;
 		this.itens = new ArrayList<>();
 		this.situacao = new EmAnalise();
